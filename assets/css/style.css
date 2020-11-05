@@ -377,7 +377,7 @@ span.accent {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(13, 18, 252, 0.6);
+  background: rgba(30, 30, 30, 0.6);
   overflow: hidden;
   display: none;
   transition: ease-in-out 0.2s;
