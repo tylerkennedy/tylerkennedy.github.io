@@ -63,9 +63,7 @@ h2 {
 .hero-column h3 {
   padding: 40px 0px;
 }
-.hero-break {
-  display: none;
-}
+
 @media only screen and (min-width: 768px) {
   .hero-container {
     flex-direction: row;
@@ -80,9 +78,6 @@ h2 {
   }
   .hero-column h1 {
     font-size: inherit;
-  }
-  .hero-break {
-    display: block;
   }
 }
 /* Features */
