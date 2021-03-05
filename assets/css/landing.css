@@ -162,12 +162,60 @@ h2 {
   width: 60%;
   margin: auto;
 }
-.upgrade-column h2 {
-  padding: 0 0 40px 0;
+.pricing.icon-box-row {
+  padding: 10px 20px;
 }
-.upgrade-column h4 {
+.pricing.icon-box-row i {
+  padding: 5px 15px 5px 0;
+}
+.pricing.icon-box-row p {
+  font-weight: 500;
+  padding: 5px 0;
+}
+.greenSlash {
+  color: #1CD61D;
+}
+.subLength {
+  font-size: .75em;
+  font-weight: bold;
+}
+.pricing-box {
+  border-radius: 25px;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
+}
+.pricing-header {
+  padding: 50px 0 40px 0;
+}
+.pricing-header h2 {
   text-align: center;
-  margin-top: -50px;
+  font-size: 1.4em;
+  font-weight: 700;
+  margin-bottom: -15px;
+}
+.pricing-header h3 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 800;
+}
+ .pricing-footer p {
+   text-align: center;
+   color: #222;
+   font-size: 16px;
+   margin-top: 40px;
+   margin-bottom: -20px;
+ }
+.price-button-row {
+  display: flex;
+  justify-content: center;
+}
+.price-button-row a {
+  padding: 40px;
+}
+.price-button-row.app-store-button {
+  margin: auto !important;
+}
+.upgrade-column.caption h4 {
+  text-align: center;
   margin-bottom: 40px;
 }
 .icon-box-column h3 {
@@ -184,7 +232,7 @@ h2 {
     width: 60%;
     margin: 0 0 0 auto  !important;
   }
-  .upgrade-column h4{
+  .upgrade-column.caption h4{
     text-align: right;
     padding: 20px 0;
   }
