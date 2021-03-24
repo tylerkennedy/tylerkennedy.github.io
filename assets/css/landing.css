@@ -103,6 +103,7 @@ h2 {
     font-size: 14px;
     color: var(--secondary);
     font-weight: 600;
+    display: inline-block;
   }
   .qrHover:hover + .scanQRCode {
     display: block;
