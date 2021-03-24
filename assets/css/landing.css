@@ -61,6 +61,9 @@ h2 {
   height: auto !important;
   margin: 0 !important;
 }
+.qrCode {
+  display: none;
+}
 .hero-column h3 {
   padding: 40px 0px;
 }
@@ -71,6 +74,7 @@ h2 {
 @media only screen and (min-width: 768px) {
   .hero-container {
     flex-direction: row;
+    min-height: 100%;
   }
   .hero-column {
     width: 50%;
@@ -82,6 +86,30 @@ h2 {
   }
   .hero-column h1 {
     font-size: 45px !important;
+  }
+  .qrCode {
+    display: block;
+  }
+  .scanQRCode {
+    display: none;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+
+  }
+  .qrHover {
+    margin-top: 15px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: var(--secondary);
+    font-weight: 600;
+  }
+  .qrHover:hover + .scanQRCode {
+    display: block;
+    padding: 0px 0;
+    width: 150px;
+    height: 150px;
+    margin: 0;
   }
 }
 /* Features */
