@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://donttext.app/blog/7-ways-to-spot-phishing-emails/</loc>
-    <lastmod>2021-03-30T22:40:54-04:00</lastmod>
+    <loc>https://donttext.app/</loc>
+    <lastmod>2021-04-20T20:45:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://donttext.app/</loc>
+    <loc>https://donttext.app/blog/phishing-attacks-explained/</loc>
+    <lastmod>2021-04-20T20:45:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donttext.app/blog/7-ways-to-spot-phishing-emails/</loc>
     <lastmod>2021-03-30T22:40:54-04:00</lastmod>
   </url>
   
