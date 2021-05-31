@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2021 22:42:11 -0500</lastBuildDate><atom:link href="https://donttext.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Block Spam Texts with Dont Text</title>
+      <link>https://donttext.app/blog/block-spam-texts/</link>
+      <pubDate>Fri, 28 May 2021 23:35:26 -0400</pubDate>
+      
+      <guid>https://donttext.app/blog/block-spam-texts/</guid>
+      <description>Dont Text is a simple and powerful app for blocking spam text messages. You can download Dont Text for free on the App Store. Dont Text is available for both iPhone and iPad.
+Dont Text gives you control over how you filter incoming text messages from unknown senders. With Dont Text, you can set custom keywords to choose which messages are blocked and sent to junk. You can also enable Worry Free Filtering to automatically block all unwanted spam texts and protect your device from spam, scams, and phishing texts.</description>
+    </item>
+    
+    <item>
       <title>Dont Text: What&#39;s New Version 1.3.3</title>
       <link>https://donttext.app/blog/whats-new-version-1dot3dot3/</link>
       <pubDate>Wed, 19 May 2021 18:40:22 -0400</pubDate>
@@ -142,10 +152,9 @@ You probably don&amp;rsquo;t have a phone book at home anymore, but now it&amp;r
       <pubDate>Tue, 02 Feb 2021 19:57:09 -0500</pubDate>
       
       <guid>https://donttext.app/blog/how-to-block-spam-texts-on-iphone/</guid>
-      <description>Unsolicited text messages are really annoying. If your iPhone is being bombarded with spam text messages you need a way to block them.
-iPhones offer a few options for stopping spam texts. Apple provides documentation on blocking spam text messages with iOS.
-If you want to save a little time reading, here is a quick summary of the steps you can take to remove unwanted texts from your iPhone:
-Block the Spam Text Sender The easiest way to stop spam texts is to block the sender.</description>
+      <description>Spam texts are one of the most annoying things in the world. The only things more annoying than spam texts might be wet socks, traffic jams, and slow wifi. A world without spam texts blowing up our phones is one we all want to live in.
+Luckily, iPhones offer a few options for stopping spam texts. Apple provides documentation on blocking spam text messages with iOS.
+This post is a quick summary of the steps you can take to remove unwanted texts from your iPhone.</description>
     </item>
     
   </channel>
