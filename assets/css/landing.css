@@ -1,4 +1,10 @@
 /* CSS For landing page */
+@font-face {
+  font-family: 'boxicons';
+  font-style: normal;
+  src: local('boxicons'), local('boxicons'), url(https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css);
+  font-display: swap;
+}
 .main {
   max-width: 100% !important;
   padding: 0px;
@@ -64,8 +70,9 @@ h2 {
 .qrCode {
   display: none;
 }
-.hero-column h3 {
+.hero-column h2 {
   padding: 40px 0px;
+  font-size: 1.17em;
 }
 .hero-break {
   display: none;
@@ -121,6 +128,7 @@ h2 {
 }
 .features-column img {
   margin: auto;
+  height: auto;
   width: 60%;
 }
 .features-column h2 {
@@ -146,6 +154,7 @@ h2 {
   .features-column img {
     margin: 0 auto 0 0;
     width: 60%;
+    height: auto;
   }
 }
 /* Download */
@@ -189,6 +198,7 @@ h2 {
 }
 .upgrade-column img {
   width: 60%;
+  height: auto;
   margin: auto;
 }
 .pricing.icon-box-row {
@@ -259,6 +269,7 @@ h2 {
   }
   .upgrade-column img {
     width: 60%;
+    height: auto;
     margin: 0 0 0 auto  !important;
   }
   .upgrade-column.caption h4{
