@@ -129,7 +129,7 @@ h2 {
 .features-column img {
   margin: auto;
   height: auto;
-  width: 60%;
+  width: 100%;
 }
 .features-column h2 {
   padding: 40px 0;
@@ -191,13 +191,13 @@ h2 {
 .upgrade-container {
   display: flex;
   flex-direction: column-reverse;
-  align-items: start;
+  align-items: center;
 }
 .upgrade-column {
   padding: 20px 0;
 }
 .upgrade-column img {
-  width: 60%;
+  width: 100%;
   height: auto;
   margin: auto;
 }
