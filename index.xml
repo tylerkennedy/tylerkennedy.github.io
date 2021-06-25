@@ -6,7 +6,7 @@
     <description>Recent content on Dont Text</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 18:15:33 -0400</lastBuildDate><atom:link href="https://donttext.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:56:38 -0400</lastBuildDate><atom:link href="https://donttext.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Block Spam Texts with Dont Text</title>
       <link>https://donttext.app/blog/block-spam-texts/</link>
@@ -15,6 +15,16 @@
       <guid>https://donttext.app/blog/block-spam-texts/</guid>
       <description>Dont Text is a simple and powerful app for blocking spam text messages. You can download Dont Text for free on the App Store. Dont Text is available for both iPhone and iPad.
 Dont Text gives you control over how you filter incoming text messages from unknown senders. With Dont Text, you can set custom keywords to choose which messages are blocked and sent to junk. You can also enable Worry Free Filtering to automatically block all unwanted spam texts and protect your device from spam, scams, and phishing texts.</description>
+    </item>
+    
+    <item>
+      <title>How to Block Spam Texts from Email Addresses</title>
+      <link>https://donttext.app/blog/block-spam-texts-email-addresses/</link>
+      <pubDate>Wed, 23 Jun 2021 00:56:38 -0400</pubDate>
+      
+      <guid>https://donttext.app/blog/block-spam-texts-email-addresses/</guid>
+      <description>Sending spam emails has been around as long as well, email. As the world has gone mobile, there has been a growth in spam texts and smishing. Now spam emails and spam texts have teamed up to send you spam texts from email addresses. This is the mashup that nobody asked for.
+And for some reason, these spam texts seem harder to block than the rest. No matter what you do, you just can not seem to get rid of them.</description>
     </item>
     
     <item>
